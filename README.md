@@ -1,4 +1,4 @@
-# Exerc-cios-DDLeDML
+# Exercícios DDL e DML
 "Exercício de DDL e DML em Banco de Dados SQL EXERCICIO 1 "
 ![image](https://github.com/ByancaMatos01/Exerc-cios-DDLeDML/assets/122841376/90dd795f-dbc5-4fe4-9539-c6a0a09556c5)
 Criar as tabelas da forma que foram diagramadas, obedecendo as seguintes restrições:
